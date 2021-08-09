@@ -1,0 +1,32 @@
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.exe
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.deps.json
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.json
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.dev.json
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.dll
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\bin\Debug\net5.0\ref\DIO.bank.dll
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.pdb
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.csproj.AssemblyReference.cache
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfoInputs.cache
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfo.cs
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.csproj.CoreCompileInputs.cache
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.dll
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\obj\Debug\net5.0\ref\DIO.bank.dll
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.pdb
+C:\Users\mgsouza\Desktop\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\bin\Debug\net5.0\ref\DIO.bank.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\bin\Debug\net5.0\DIO.bank.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\obj\Debug\net5.0\ref\DIO.bank.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO1\DIO1\DIO.bank\obj\Debug\net5.0\DIO.bank.genruntimeconfig.cache
